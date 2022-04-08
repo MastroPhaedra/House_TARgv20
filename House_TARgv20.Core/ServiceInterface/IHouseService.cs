@@ -11,6 +11,7 @@ namespace House_TARgv20.Core.ServiceInterface
         Task<HouseDomain> Edit(Guid id);
         Task<HouseDomain> Update(HouseDto dto);
         Task<HouseDomain> Delete(Guid id);
+
         // For test
         Task<HouseDomain> GetAsync(Guid id);
     }

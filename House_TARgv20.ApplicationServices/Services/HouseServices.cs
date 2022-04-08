@@ -82,7 +82,6 @@ namespace House_TARgv20.ApplicationServices.Services
         }
 
         // For test
-
         public async Task<HouseDomain> GetAsync(Guid id)
         {
             var result = await _context.House
