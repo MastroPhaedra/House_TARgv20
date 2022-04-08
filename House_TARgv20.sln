@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "House_TARgv20.Core", "House
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "House_TARgv20.Data", "House_TARgv20.Data\House_TARgv20.Data.csproj", "{0558C6BF-659D-4DDB-95C1-2BC6861A9700}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "House_TARgv20.Tests", "House_TARgv20.Tests\House_TARgv20.Tests.csproj", "{9863F749-F571-4161-A728-C87E04EA829C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0558C6BF-659D-4DDB-95C1-2BC6861A9700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0558C6BF-659D-4DDB-95C1-2BC6861A9700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0558C6BF-659D-4DDB-95C1-2BC6861A9700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9863F749-F571-4161-A728-C87E04EA829C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9863F749-F571-4161-A728-C87E04EA829C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9863F749-F571-4161-A728-C87E04EA829C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9863F749-F571-4161-A728-C87E04EA829C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
